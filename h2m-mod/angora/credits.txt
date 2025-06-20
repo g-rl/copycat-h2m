@@ -1,2 +1,2 @@
-ported aw base from panela @girlmachinery
+ported aw base from mirele @girlmachinery
 function replacements from retro pack @rtros
